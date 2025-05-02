@@ -48,6 +48,8 @@ Check if the email subject contains key identifiers ( app name) like:
 ## Example Workflow
 ![image](https://github.com/user-attachments/assets/17c412d4-a2ee-42b2-ac53-3d06ae5a3561)
 
+Sharepoint upload view
+![image](https://github.com/user-attachments/assets/5438f6a1-9824-4f5c-9e63-4f835a409ae5)
 
 ```plaintext
 [When email arrives in inbox]
@@ -56,7 +58,7 @@ Check if the email subject contains key identifiers ( app name) like:
          ↓
       [True] ──► Export email
          ↓
-      Create file in SharePoint folder COmmunication archive: "ABC"
+      Create file in SharePoint folder Communication archive: "ABC"
          ↓
       Update metadata: Sender, Subject, Date, Category = “ABC”
 
