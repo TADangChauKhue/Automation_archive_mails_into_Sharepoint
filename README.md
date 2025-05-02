@@ -60,4 +60,5 @@ Check if the email subject contains key identifiers ( app name) like:
 
 ## 2. Overview flow (Power Automate)
 
-![image](https://github.com/user-attachments/assets/2fdcdd9d-49bd-4626-abbf-9ee8273f9595)
+![image](https://github.com/user-attachments/assets/a7af9feb-8e51-4886-b48b-89d4fa645fe4)
+
