@@ -46,6 +46,8 @@ Check if the email subject contains key identifiers ( app name) like:
   - **Category:** Based on subject match
 
 ## Example Workflow
+![image](https://github.com/user-attachments/assets/17c412d4-a2ee-42b2-ac53-3d06ae5a3561)
+
 
 ```plaintext
 [When email arrives in inbox]
@@ -58,7 +60,4 @@ Check if the email subject contains key identifiers ( app name) like:
          ↓
       Update metadata: Sender, Subject, Date, Category = “ABC”
 
-## 2. Overview flow (Power Automate)
-
-![image](https://github.com/user-attachments/assets/a7af9feb-8e51-4886-b48b-89d4fa645fe4)
 
